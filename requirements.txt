@@ -1,0 +1,4 @@
+dopp @ git+https://github.com/unibe-cns/dendritic-opinion-pooling.git
+matplotlib ~= 3.3.3
+numpy ~= 1.18.4
+torch ~= 1.7.1

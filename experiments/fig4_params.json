@@ -1,0 +1,16 @@
+{
+    "n_noise_realizations": 40,
+    "dt": 0.2,
+    "sim_time": 300,
+    "angle_target": 44.0,
+    "noise_mu": 35.0,
+    "noise_std": 15.0,
+    "contrast_signal_before": [0.0, 0.0],
+    "contrast_noise_before": [1.0, 1.0],
+    "contrast_signal_after": [0.88, 0.88],
+    "contrast_noise_after": [0.12, 0.12],
+    "gL0": 1.0,
+    "gLd": [0.2, 0.2, 0.2],
+    "cm0": 60.0,
+    "lambda_e": 100.0
+}
